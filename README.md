@@ -1,2 +1,3 @@
-# lil-expo
-Just experimenting with GitHub
+# My First GitHub Project
+I'm just learning how GitHub works. 🐙
+This is my first repository!
